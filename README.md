@@ -7,7 +7,7 @@
 <p align="center"><strong>Cloud‑first engineering. Secure. Scalable. Supported.</strong></p>
 
 <p align="center">
-  <a href="https://skyitsolution.co.im"><img alt="Website Status" src="https://img.shields.io/website?url=https%3A%2F%2Fskyitsolution.co.im"></a>
+  <a href="https://skyitsolution.co.in"><img alt="Website Status" src="https://img.shields.io/website?url=https%3A%2F%2Fskyitsolution.co.in"></a>
   <a href="https://www.linkedin.com/company/108054999"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SKY--IT--SOLUTION-blue?logo=linkedin"></a>
 </p>
 
@@ -41,7 +41,24 @@ SKY IT SOLUTION is a technology‑first solutions company building secure, scala
 - Vulnerability discovery, risk assessment, remediation planning
 
 ## 🧰 Tech & Tools (representative)
-Docker · Kubernetes · ArgoCD · AWS · GCP · Azure · Ubuntu · AlmaLinux · Windows Server · Next.js · React · Node.js · Spring Boot · Django · Kotlin · Flutter · Swift · WordPress · Burp Suite · Nessus · Nmap · Metasploit
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40"/>
+</p>
+
 
 ## 🔒 Security & Compliance
 Security is built into everything we deliver: secure configurations, least‑privilege defaults, CI/CD safety gates, automated scanning, and regular pentests. We help clients meet regulatory and internal compliance requirements.
